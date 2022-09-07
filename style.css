@@ -1,0 +1,23 @@
+img, embed, object, video{
+    max-width: 100%;
+}
+
+nav, a, button{
+    min-width: 48px;
+    min-height: 48px;
+}
+body{
+
+
+    
+}
+
+
+@media screen and (max-width:500px) {
+    body{
+
+
+        
+    }
+}
+
